@@ -1,17 +1,6 @@
-![Uploading image.png…]()
 
+A Marvel-themed fighting game-style character selector where you can choose heroes and villains to battle.
 
+Features Character selection (heroes and villains) Selection animations with glow effect Responsive design Enlarged view of selected character
 
-Um seletor de personagens estilo jogo de luta com tema Marvel, onde você pode escolher heróis e vilões para batalhar.
-
-
-Funcionalidades
-Seleção de personagens (heróis e vilões)
-Animações de seleção com efeito glow
-Design responsivo
-Visualização ampliada do personagem selecionado
-
-Tecnologias
-HTML5
-CSS3 (Grid, Flexbox, Animations)
-JavaScript
+Technologies HTML5 CSS3 (Grid, Flexbox, Animations) JavaScript
